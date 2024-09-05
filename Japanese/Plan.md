@@ -1,0 +1,71 @@
+# Resources
+- **Anki** (Vocabulary)
+- **Immersion**: 
+	- *Intensive*: Put a lot of effort in, searching up every word and trying to piece all of the sentences together. Basically just immerse as you used to.
+	- *Active*: Avoid lookups in order to get into the flow of immersion. You still need to pay full attention to the content, and you can look up words every once in a while, but here you want to prioritize the flow of comprehension. 
+	- *Passive Listening*: Download youtube, netflix, or even an audiobook and listen to it while doing mindless tasks (chores, cooking, exercise, easy hw). Basically whenever you'd feel comfortable listening to music, you could try to passive listen instead. Try to pay attention, but you don't need to be focusing too much. Passive listening content can be stuff that you've already actively immersed with.
+-   Grammar
+	- [Cure Dolly](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) until it gets unstructured, then just study JLPT and use references to find grammar points you don't get.
+	- [Wasabi](https://www.wasabi-jpn.com/japanese-grammar/wasabis-online-japanese-grammar-reference/?utm_source=Tofugu)
+	- [日本語教師 (JLPT)](https://nihongokyoshi-net.com/jlpt-grammars/)
+	- [庭三郎の現代日本語文法概説 (advanced)](https://itazuraneko.neocities.org/grammar/niwasaburoo/index.html)
+- Grammar References:
+	- [Itazuraneko Master List](https://itazuraneko.neocities.org/grammar/masterreference)
+	- [Imabi](https://www.imabi.net/)
+	- [Tofugu Grammar](https://www.tofugu.com/japanese-grammar/)
+	- [Bunpro Grammar List](https://bunpro.jp/grammar_points)
+
+---
+- https://community.wanikani.com/t/the-ultimate-additional-japanese-resources-list/16859
+-   News Immersion
+	-  https://easyjapanese.net/
+	-  https://www.satorireader.com/
+	-  https://www3.nhk.or.jp/news/easy/
+- Conjugation Practice
+	- https://baileysnyder.com/jconj/
+
+- Immersion List
+	- VNs
+		- Cyanotype Daydream
+	- LNs
+		- Hello, Hello And Hello (4/10)
+		- 七つの魔剣が支配する (8/10)
+		- Spice and Wolf (6/10)
+		- Torture Princess (8/10)
+		- Ascendance of A Bookworm (5/10)
+		- Tearmoon Empire (5/10)
+		- Empty Box (6/10)
+		- Bofuri (6/10)
+		- Boogiepop (6/10)
+		- Chiramune (6/10)
+		- Kino no Tabi (6/10)
+		- Seishun Butayarou 
+		- Haruhisuzumiya (5/10)
+		- Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken (5/10)
+		- Kage no Jitsuryokusha ni Naritakute! (6/10)
+		- Watashi no Oshi wa Akuyaku Reijou (6/10)
+		- Majo no Tabitabi (5/10)
+	- Anime
+		- Romance
+			- 君に届け
+		- SoL
+			- K-On!
+			- たまこまーけっと
+			- 日常
+			- Yuru Camp
+			- ばらかもん
+			- Non Non Biyori
+			- Himouto! Umaru-chan
+			- Gabriel Dropout
+			- K-on
+		- Sports
+			- 風が強く吹いている
+		- Shounen
+			- Kimetsu no Yaiba
+		- ?
+			- Koe no Katachi
+			- 空よりも遠い場所
+			- 夏目の友人帳
+			- Toki wo Kakeru Shoujo
+	# CONSISTENCY IS KEY!!!!!!
+#important

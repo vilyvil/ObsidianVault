@@ -1,0 +1,4 @@
+# Bamboo Radical ⺮
+Bamboo
+
+#radical

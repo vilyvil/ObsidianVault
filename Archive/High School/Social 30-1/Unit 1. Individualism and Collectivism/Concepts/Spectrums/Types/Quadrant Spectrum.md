@@ -1,0 +1,1 @@
+A spectrum which uses two [[Flat Line Spectrum]]s to map an ideology's stance on political and economic issues.
