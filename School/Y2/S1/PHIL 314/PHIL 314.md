@@ -11,7 +11,7 @@ sort file.ctime desc
 
 # List of all Notes
 %% Begin Waypoint %%
-- [[Untitled]]
+- [[Are Ethical Values Relative]]l Values Relative]]
 
 %% End Waypoint %%
 
