@@ -1,6 +1,0 @@
----
-summary: 
-tags:
-  - todo
-  - coursenote
----
