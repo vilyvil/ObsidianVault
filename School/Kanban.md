@@ -6,31 +6,24 @@ kanban-plugin: board
 
 ## CPSC 331
 
-- [ ] Read Chapter 2
 - [ ] Read Chapter 3
-- [ ] Look into algorithms lecture in advance?
+- [ ] Read slides in advance
 - [ ] ------- WEEK 1 ABOVE ------
 - [ ] Read Chapter 4
 
 
 ## CPSC 355
 
-- [ ] Get textbook
-- [ ] Look over syllabus and learn a little bit ahead?
+- [ ] Look over syllabus and learn ahead?
 
 
 ## CPSC 329
 
-- [ ] Piazza Access
-- [ ] Gradescope Access
-- [ ] Ethics Contract (Gradescope)
-- [ ] Check out upcoming slides?
+- [ ] Maybe read DIBR
 
 
 ## PHIL 314
 
-- [ ] Finish W. T. Stace
-- [ ] Lecture 2
 - [ ] Read C. D. Broad
 - [ ] --------WEEK 1 ABOVE----------
 - [ ] Lecture 3

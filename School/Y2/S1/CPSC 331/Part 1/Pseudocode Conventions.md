@@ -1,0 +1,10 @@
+- Indentations indicate blocks, like Python
+- While, for, repeat-until, and if-else are like in actual programming languages. However, loop counters retain their value even after the loop is out of scope.
+- // For comments
+- Variables are by default local. Global variables must be specified as such
+- Access array elements by A\[i]. Most of the textbook's examples will use 1-origin indexing. This will be specified explicitly.
+- Objects can have attributes which can be accessed just like in OOP languages. name.attribute_name.
+- Variables that represent arrays or objects are treated like pointers
+- Parameters are passed by value. However, when objects/arrays are passed, only the pointer is copied and not the object itself.
+- Multiple values can be returned back
+- "and" and "or" operators are short-circuiting. If the first expression guarantees a conclusion, then the second expression is not evaluated. This allows us to cut off errors that might happen.
