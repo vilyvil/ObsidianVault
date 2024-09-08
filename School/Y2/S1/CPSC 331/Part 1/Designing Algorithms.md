@@ -26,18 +26,20 @@ Then suppose that it takes D(n) time to divide the problem and C(n) time to comb
 
 T(n) then becomes: 
 ![[Pasted image 20240906203422.png]]
-Where n < n0 represents the base case being solved in constant time. (Constant time is O(1) since we're ignoring the coefficient)
+Where n < n0 represents the base case being solved in constant time. (Constant time is Θ(1) since we're ignoring the coefficient)
 
 Sometimes dividing doesn't result in entirely equal parts, but it'll always result in a difference of at most one between each part, so we're going to ignore it.
 
 We're going to **ignore base cases** since they're almost always constant time so who cares.
 
 # Analysis of Merge Sort
-- Divide: D(n) = O(1) since we're just finding the middle of the subarray
+- Divide: D(n) = Θ(1) since we're just finding the middle of the subarray
 - Conquer: 2T(n/2), since each subproblem takes T(n/2) time and there are 2 of them
-- Combine: As shown before, merging takes O(n) time.
+- Combine: As shown before, merging takes Θ(n) time.
 
-Together, the O(1) + O(n) just result in a linear equation, so O(n) again.
-T(n) = 2T(n/2) + O(n)
+Together, the Θ(1) + Θ(n) just result in a linear equation, so Θ(n) again.
+T(n) = 2T(n/2) + Θ(n)
 
-Later we're going to have a master proof to prove that this = O(n * log2(n)).
+Later we're going to have a master proof to prove that this = Θ(n * log2(n)).
+
+#finished

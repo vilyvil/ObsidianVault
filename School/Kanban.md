@@ -24,7 +24,6 @@ kanban-plugin: board
 
 ## PHIL 314
 
-- [ ] Read C. D. Broad
 - [ ] --------WEEK 1 ABOVE----------
 - [ ] Lecture 3
 - [ ] Read J. S. Mill

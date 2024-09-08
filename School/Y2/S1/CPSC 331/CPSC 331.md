@@ -22,6 +22,10 @@ sort file.ctime desc
 %% Begin Waypoint %%
 - **Part 1**
 	- [[Analyzing Algorithms]]
+	- **Chapter 3 exercises**
+		- [[3.1-2]]
+		- [[3.1-3]]
+	- [[Characterizing Running Times]]
 	- [[Designing Algorithms]]
 	- [[Pseudocode Conventions]]
 	- [[Sorting]]

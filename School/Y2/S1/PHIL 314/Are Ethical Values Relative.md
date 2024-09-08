@@ -10,3 +10,5 @@
 	 - Without comparison, you cannot even blame someone for a crime. What if a criminal claims he just has his own moral standard? If he was following his moral standard then how was he wrong commit the crime that he did?
 	 - How can we even know what moral standards belong to what group? Do group members even know among themselves? What if their opinions differ? What if one person decides to better their society by going against their moral standards? Are they being immoral?
 	 - If moral standards are all equal, then why do we even bother with them? Why not just go with an easier standard and live an easier life.
+
+#finished

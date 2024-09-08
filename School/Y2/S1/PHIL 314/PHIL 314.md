@@ -11,7 +11,8 @@ sort file.ctime desc
 
 # List of all Notes
 %% Begin Waypoint %%
-- [[Are Ethical Values Relative]]l Values Relative]]
+- [[Are Ethical Values Relative]]
+- [[Egoism as a Theory of Human Motives]]
 
 %% End Waypoint %%
 

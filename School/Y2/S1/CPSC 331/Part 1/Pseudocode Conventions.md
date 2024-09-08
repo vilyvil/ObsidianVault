@@ -8,3 +8,4 @@
 - Parameters are passed by value. However, when objects/arrays are passed, only the pointer is copied and not the object itself.
 - Multiple values can be returned back
 - "and" and "or" operators are short-circuiting. If the first expression guarantees a conclusion, then the second expression is not evaluated. This allows us to cut off errors that might happen.
+#finished

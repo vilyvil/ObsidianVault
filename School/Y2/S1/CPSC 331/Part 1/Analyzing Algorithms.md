@@ -58,3 +58,5 @@ We usually consider an algorithm to be slower than another if it has a higher or
 
 # Limitations
 Since we're ignoring constants, order of growth comparison is not going to be accurate for lower input sizes. However, it will always work for some big enough n.
+
+#finished

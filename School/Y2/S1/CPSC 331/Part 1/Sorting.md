@@ -23,3 +23,5 @@ For insertion sort:
 3. Termination: When the loop terminates, i = n + 1. Therefore the subarray is now A\[1:n], which is the same size as the original array. Since we know the subarray has been sorted the whole time, we know that the whole array is sorted now.
 
 In this way, since the subarray being sorted the whole time is a loop invariant, we use it to show that the whole array itself sorted in the end.
+
+#finished

@@ -2,7 +2,7 @@
 ```dataview
 table 
 summary as "Summary", substring(file.folder, 19, 27) as "Subject Name", file.ctime as "Creation time"
-from "Notes/School/Y2" and -#finished and -#exception
+from "repo/School/Y2" and -#finished and -#exception
 where file.name != "Note Template"
 sort file.ctime desc
 ```
