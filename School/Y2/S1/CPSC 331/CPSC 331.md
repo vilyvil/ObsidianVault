@@ -22,6 +22,13 @@ sort file.ctime desc
 %% Begin Waypoint %%
 - **Part 1**
 	- [[Analyzing Algorithms]]
+	- [[Asymptotic Notation Formal Definitions]]
+	- **Chapter 2 exercises**
+		- [[2.3-4]]
+		- [[2.3-5]]
+		- [[2.3-6]]
+		- [[2.3-7]]
+		- [[2.3-8]]
 	- **Chapter 3 exercises**
 		- [[3.1-2]]
 		- [[3.1-3]]

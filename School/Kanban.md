@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] Read Chapter 3
 - [ ] Read slides in advance
-- [ ] ------- WEEK 1 ABOVE ------
+- [ ] ------- WEEK 2 ABOVE ------
 - [ ] Read Chapter 4
 
 
