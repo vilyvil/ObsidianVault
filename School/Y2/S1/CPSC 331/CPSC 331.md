@@ -24,6 +24,9 @@ sort file.ctime desc
 	- [[Analyzing Algorithms]]
 	- [[Asymptotic Notation Formal Definitions]]
 	- **Chapter 2 exercises**
+		- [[2-1]]
+		- [[2-2]]
+		- [[2-3]]
 		- [[2.3-4]]
 		- [[2.3-5]]
 		- [[2.3-6]]
