@@ -13,6 +13,7 @@ sort file.ctime desc
 %% Begin Waypoint %%
 - [[Are Ethical Values Relative]]
 - [[Egoism as a Theory of Human Motives]]
+- [[What Utilitarianism Is.]]
 
 %% End Waypoint %%
 

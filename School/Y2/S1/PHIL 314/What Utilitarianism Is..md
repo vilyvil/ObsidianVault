@@ -1,0 +1,22 @@
+J.S. Mill first complains that people don't get the word utilitarianism and that they think utility means no pleasure/beauty. He complains that people dislike utility wrongly for this but also that people compliment it wrongly for its apparent superiority to frivolity.
+
+\*J.S. Mill considered himself one of the first people to use the word utilitarian. He and others abandoned it after starting to dislike things that resembled badges of "sectarian distinction" (From what I can tell, separating people into sects and making them hate other groups)
+
+# Utilitarianism
+Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness.
+
+# Continuing with paragraph summaries
+1. Some might argue that utilitarianism is disgusting because it implies that life has no greater meaning than to indulge in disgusting pleasures.
+2. Epicureans have always answered that THEY didn't say that, the other people did. If they think humans can only enjoy disgusting things then that's on them. Also, some pleasures are worth more than others.
+3. Other than quantity of pleasure, another way to compare pleasures is by seeing what people (who have felt that pleasure many times) feel. If many prefer one to the other, then the preferred one is superior.
+4. Beings always prefer manners of existence which require (give?) greater brainpower. Greater brainpower means more suffering and means more is required to make one happy, but at the same time those with greater brainpower are not willing to stoop down to lower levels of existence. For this to happen ones existence would have to be so bad that ANY other existence would be preferable.
+5. Some say superior thinking means less happiness. But not being content with everything doesn't mean you're less happy. Yes, pigs are fully satisfied. But they are less happy. It doesn't matter if they think they're satisfied, since they can't understand the feeling of being a greater being.
+6. Occasionally people do go for lower pleasures, but they do this knowing that they shouldn't (i think?)
+7. People with youthful enthusiasm for nobility stop caring when they grow up. Why? Because they either can't afford to go for higher pleasures, or just don't care anymore after all they've gone through.
+8. Don't question the valuation of pleasures. There's no other way of measuring it, just like there is no other way of measuring pain.
+9. Utilitarianism can only be realized if everyone decides to be noble, even sacrificing their own happiness for that of others, expecting to get happiness from the deeds of others as well. Then I think it says that he thinks it's stupid that people would be sacrificing their happiness in making others happy.
+10. The ultimate goal of utilitarianism is the least pain, the most enjoyment, in both quantity and quality. Quality must be measured against quantity by preference. This should be the standard of morality and rule all human conduct. If it is observed, it will provide the greatest happiness possible to not only all humans but the whole sentient creation.
+11. Some will argue against happiness by asking what right you have to happiness, and even what right do you have to exist? Then they say all noble beings have experienced happiness but renounce because they believe renunciation of happiness is the first and necessary condition for virtue.
+12. The first of those objections would topple all this down if it made sense. Well, even if it made sense, you could argue that utilitarianism should aim for the reduction of unhappiness. Anyways, when it is argued that life hsould be happy it doesn't mean we should always always always be happy what kind of idiot thinks that. A normal happy life is attainable, anyway, and would be for all people if not for current society and people's current education (values, culture, ideas, ig)
+13. Objectors might doubt if people would even be content with just a portion of society's happiness. But people have been satisfied with much less. Namely, tranquility and excitement, two things which kind of go hand in hand. Also, when people are selfish they tend not to feel satisfied anymore, since the things they were selfish about get less valuable when they grow old. In addition, another thing which makes life unsatisfactory is not having mental cultivation.
+14. 
