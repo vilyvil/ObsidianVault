@@ -7,25 +7,23 @@ kanban-plugin: board
 ## CPSC 331
 
 - [ ] Read Chapter 3
-- [ ] Read slides in advance
-- [ ] ------- WEEK 2 ABOVE ------
 - [ ] Read Chapter 4
+- [ ] Assignment 1
 
 
 ## CPSC 355
 
-- [ ] Look over syllabus and learn ahead?
+- [ ] Try making a basic loop for A1
 
 
 ## CPSC 329
 
-- [ ] Maybe read DIBR
+- [ ] Finalize A1 pre-reading
+- [ ] Organize self for tutorial discussion
 
 
 ## PHIL 314
 
-- [ ] Lecture 3
-- [ ] Read J. S. Mill
 - [ ] Read Bernard Williams
 - [ ] Lecture 4
 
