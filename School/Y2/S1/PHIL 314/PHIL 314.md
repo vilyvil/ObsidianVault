@@ -11,6 +11,7 @@ sort file.ctime desc
 
 # List of all Notes
 %% Begin Waypoint %%
+- [[A Criticism of Utilitarianism]]
 - [[Are Ethical Values Relative]]
 - [[Egoism as a Theory of Human Motives]]
 - [[What Utilitarianism Is.]]
