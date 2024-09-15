@@ -63,3 +63,25 @@ Commitments = Covers a vast range of projects that make people happy.
 
 A utilitarian would say that, in a situation where someone's actions conflict with your actions, and theirs would create greater satisfaction, you should stop your own actions. But consider the case where your action is a commitment, which you've been building your whole life. How are you supposed to see your commitment as disposable and just throw it away just because someone else has come along and made the situation so that you must throw it away? The point isn't that he's going to lose happiness if he decides to be utilitarian about it. It's that he's just going to throw away a piece of himself that he's been working on forever. This is an attack on his integrity.
 
+Many of the qualities people prefer in human beings that make them happy are not utilitarian, but they still make us happy. It is not clear to the author how utilitarian deals with that.
+
+Gresham's Law Problem: Like the prisoner's dilemma: Worst case overall happens when two people don't work together, worst case (individually) happens to an individual if he decides to cooperate and the other doesn't, and the best case overall happens if they both work together. Now imagine a utilitarian and a non-utilitarian in this case, where the non-utilitarian decides not to work with the utilitarian, and the utilitarian knows this. Now, for the utilitarian the only rational choice is for him to choose not to work together and thus choose the worst overall case for society.
+
+Of course, such conflicts irl could be mitigated by the state, but this kind of thing can happen within states as well.
+
+A utilitarian might give two arguments:
+1. It's not just a utilitarian thing to talk about how to avoid conflict.
+	- But this is missing the point, which is talking about a state of the world where not everyone is utilitarian. In that case, utilitarians are SUPPOSED to increase conflict.
+2. This argument the author gave is utilitarian?
+	 - Author replies saying that the ultimate fate of utilitarianism is to usher itself out because its way of deciding questions could lead to disaster in some cases.
+		 - Utilitarianists themselves recognize this and left the way open for utilitarianism to fall to a more indirect level of total assessment (?). But once that's begun it will begin to fade away until its only demand is that the world be run in the best way possible with no demand on how that is done.
+
+As a result, for maximal utility in the world it might be the case that very few people accept utilitarianism, in which case it's useless.
+
+Now, in the case where the government is utilitarian and the people are not, the government would have to act in ways that the populace does not agree with, which means that the government is not entirely beholden to the people. This arrangement is very manipulative, and is only safe as long as the people running the government don't realize that. However, it's extremely likely that they WOULD realize that and start abusing their power.
+
+Social Choice
+Will go through a journey where doubts cause changes which cause utilitarianism to fade away. Three steps:
+1. Recognizing that it's possible to use social decision functions which are not utilitarian, using utilitarian-type comparisons of utilities
+2. Casting doubt on the adequacy of utilities, perceived satisfactions, and expressed preferences as the basis of social decision, and then entertaining conceptions of welfare and happiness which raise more pervasive problems about interpersonal comparison and aggregation
+3. Finally having doubts about using such an ambitious and totalistic social system for more than very specific and limited purposes.

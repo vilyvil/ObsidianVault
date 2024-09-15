@@ -36,10 +36,12 @@ sort file.ctime desc
 	- **Chapter 3 exercises**
 		- [[3.1-2]]
 		- [[3.1-3]]
+		- [[3.2]]
 	- [[Characterizing Running Times]]
 	- [[Designing Algorithms]]
 	- [[Pseudocode Conventions]]
 	- [[Sorting]]
+	- [[Standard Notations and Common Functs]]
 - **Part 2**
 - **Part 3**
 - **Part 4**
