@@ -41,7 +41,7 @@ sort file.ctime desc
 	- [[Designing Algorithms]]
 	- [[Pseudocode Conventions]]
 	- [[Sorting]]
-	- [[Standard Notations and Common Functs]]
+	- [[Standard Notations and Common Functions]]
 - **Part 2**
 - **Part 3**
 - **Part 4**

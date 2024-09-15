@@ -94,3 +94,15 @@ Note again that cg(n) < f(n) and not ≤.
 For example, $n^2/2 = ω(n)$, but $n^2/2 ≠ ω(n^2)$, because $n^2/2$ is tight.
 
 # Comparing Functions
+Transitivity: If f(n) = O(g(n)) and g(n) = O(h(n)) then f(n) = O(h(n)). This applies for the other notations as well
+Reflexivity: A function is O, theta, and omega of itself.
+Symmetry: f(n) = O(g(n)) iff g(n) = O(f(n))
+Transpose symmetry: f(n) = O(g(n)) iff g(n) = omega(f(n)) and f(n) = o(g(n)) iff g(n) = w(f(n))
+
+![[Pasted image 20240915145253.png]]
+
+f(n) Asymptotically smaller than g(n): f(n) = o(g(n))
+f(n) Asymptotically larger than g(n): f(n) = w(g(n))
+
+Functions are not always >, <, or = like with real numbers. This is because sometimes functions can oscillate around each other.
+
