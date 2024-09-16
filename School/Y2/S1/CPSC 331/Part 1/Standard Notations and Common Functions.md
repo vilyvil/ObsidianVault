@@ -85,3 +85,33 @@ Any positive polynomial function grows faster than any polylogarithmic function.
 
 by the way $log^kn = (logn)^k$
 # Factorials
+Weak upper bound is $n! <= n^n$.
+
+Stirling's Approximation provides a tighter upper bound and a lower bound.
+![[Pasted image 20240915175053.png]]
+
+Bro idfk
+
+# Functional Iteration
+The notation $f^{(i)}(n)$ denotes the function f(n) iteratively applied i times to an initial value n. For non-negative integers i, we recursively define
+![[Pasted image 20240915175948.png]]
+
+# Iterated Logarithm function
+We use notation lg\*n (log star of n) to denote the iterated logarithm, defined as:
+Let $lg^{(i)}n$ be as defined above, with f(n) = lg(n). Because the logarithm of a non-positive number is undefined, $lg^{(i)}n$ is defined only if $lg^{(i-1)}n$ > 0. Be sure to distinguish $lg^{(i)}n$ from $lg^in$ (the second is equivalent to $(lgn)^i$) Then we define the iterated logarithm function as:
+![[Pasted image 20240915180228.png]]
+lg\**n* = the smallest number of times you must apply the lg function to n where the result is <= 1.
+
+# Fibonacci Numbers
+$F_i$, defined as follows:
+![[Pasted image 20240915180535.png]]
+Fibonacci numbers are related to the golden ratio and its conjugate ![[Pasted image 20240915180554.png]]
+which are two roots of the equation $x^2 = x + 1$.
+
+The golden ratio is given by 
+![[Pasted image 20240915180634.png]]![[Pasted image 20240915180644.png]]
+
+![[Pasted image 20240915180657.png]]
+
+![[Pasted image 20240915180710.png]]
+The ith fibonacci number is equal to golden^i / root(5) rounded to the nearest integer.
