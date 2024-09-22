@@ -43,6 +43,7 @@ sort file.ctime desc
 		- [[4.0, 4.1 Divide and Conquer]]
 		- [[4.2 Strassen's Matrix Multiplication]]
 		- [[4.3 Substitution Method]]
+		- [[4.4 Recursion-Tree Method]]
 	- [[Characterizing Running Times]]
 	- [[Designing Algorithms]]
 	- [[Pseudocode Conventions]]
