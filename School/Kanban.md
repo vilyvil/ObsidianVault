@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] Assignment 1
 - [ ] Go back to 4.1, 4.2 questions after reading 4.5
+- [ ] Read Chapter 6
 
 
 ## CPSC 355
